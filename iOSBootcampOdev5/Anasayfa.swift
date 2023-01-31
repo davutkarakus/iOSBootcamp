@@ -112,6 +112,7 @@ class AnaSayfa: UIViewController {
                         esittirTiklandi = false
                     }
                 else{
+                    
                     myText = ""
                     sayi2 = Double(s1)
                     operasyonGlobal2 = "+"
