@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "5Ki-7r-HxM"; */
+"5Ki-7r-HxM.configuration.title" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Ki-7r-HxM"; */
+"5Ki-7r-HxM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "SIGN IN"; ObjectID = "6c6-wW-cKV"; */
+"6c6-wW-cKV.configuration.title" = "GİRİŞ YAP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6c6-wW-cKV"; */
+"6c6-wW-cKV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "New on our platfrom ?"; ObjectID = "8NB-eg-kRZ"; */
+"8NB-eg-kRZ.text" = "Platformumuzda yeni misin ?";
+
+/* Class = "UILabel"; text = " Create an account ?"; ObjectID = "Gmj-zi-jHC"; */
+"Gmj-zi-jHC.text" = " Yeni bir hesap oluştur ?";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "Ht9-gb-bTd"; */
+"Ht9-gb-bTd.text" = "Veya";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "IXM-qQ-qKO"; */
+"IXM-qQ-qKO.text" = "Parolanızı mı unuttunuz?";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "RHn-RJ-YkJ"; */
+"RHn-RJ-YkJ.configuration.title" = "Kayıt ol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RHn-RJ-YkJ"; */
+"RHn-RJ-YkJ.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter your Password"; ObjectID = "Ukm-Ss-RSV"; */
+"Ukm-Ss-RSV.placeholder" = "Parolanızı giriniz";
+
+/* Class = "UITextField"; placeholder = "Enter your Username"; ObjectID = "X4T-vs-XsO"; */
+"X4T-vs-XsO.placeholder" = "Kullanıcı adınızı giriniz";
+
+/* Class = "UILabel"; text = "With your social network"; ObjectID = "toy-h1-RTl"; */
+"toy-h1-RTl.text" = "Sosyal medya hesabı ile";
