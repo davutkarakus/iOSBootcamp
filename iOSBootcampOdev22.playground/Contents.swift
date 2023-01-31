@@ -1,6 +1,6 @@
 import UIKit
 // 1.Soru
-func convertSicaklik(sicaklik : Double) -> Double{
+func convertSicaklik(sicaklik : Double) -> Double {
     var convertEdilenSicaklik = (sicaklik*1.8)+32
     print(convertEdilenSicaklik)
     return convertEdilenSicaklik
@@ -91,4 +91,4 @@ func kotayaGoreUcret(kota : Int) -> Int {
 
 kotayaGoreUcret(kota: 30)
 kotayaGoreUcret(kota: 51)
-kotayaGoreUcret(kota: 60)
+kotayaGoreUcret(kota: 60
